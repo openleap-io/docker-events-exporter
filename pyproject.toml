@@ -1,6 +1,0 @@
-[build-system]
-requires = [
-    "elasticsearch==8.15.0",
-    "docker"
-]
-build-backend = "setuptools.build_meta"
